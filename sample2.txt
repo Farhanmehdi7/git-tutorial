@@ -1,3 +1,0 @@
-this is sample
-ls
-[A[C
